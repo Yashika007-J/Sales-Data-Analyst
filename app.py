@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv('D:\SALES_PROJECT\Sales-Data-Analyst\afficionado_cleaned.csv')
+df = pd.read_csv(r"D:\SALES_PROJECT\Sales-Data-Analyst\coffee_data.csv")
 
 # Title
 st.title("☕ Afficionado Coffee Roasters - Sales Analytics")
