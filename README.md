@@ -16,7 +16,7 @@ This project analyzes 149,116 transactions from Afficionado Coffee Roasters acro
 ## 🛠️ Tools & Technologies
 - **Python** (Pandas, Matplotlib, Seaborn) — Data cleaning, EDA, feature engineering
 - **Excel** — Pivot tables & charts
-- **Tableau** — Interactive visualizations ([Live Dashboard](your-tableau-public-link))
+- **Tableau** — Interactive visualizations ([Live Dashboard](https://public.tableau.com/app/profile/yashika.jandaniya/viz/AfficionadoCoffeeRoastersSalesAnalytics/Dashboard1?publish=yes&showOnboarding=true))
 - **Power BI** — Executive dashboard
 - **Streamlit** — Live interactive web app ([Live App](your-streamlit-link))
 
